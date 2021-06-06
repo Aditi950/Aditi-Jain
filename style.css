@@ -1,0 +1,25 @@
+.container{
+    background-color: yellow;
+    height: 450px;
+    width: 450px;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    font-style: initial;
+}
+input{
+    display: block;
+    margin: auto;
+}
+body{
+    background-color: black;
+}
+#btn{
+    border-radius: 30px;
+    background-color: black;
+    color: yellow;
+    font-style: inherit;
+    font-size: larger;
+    margin-top: 70px;
+}
